@@ -1,5 +1,0 @@
-{{#user}}
-Name:   Hardik Pratap Singh
-Skills: HTML, CSS, JS, Next.js,React.js,Python,C,JAVA
-Email: hardikpratapsingh@gmail.com
-{{/user}}
